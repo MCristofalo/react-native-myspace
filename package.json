@@ -1,0 +1,19 @@
+{
+  "name": "react-native-myspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCristofalo/react-native-myspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCristofalo/react-native-myspace/issues"
+  },
+  "homepage": "https://github.com/MCristofalo/react-native-myspace#readme"
+}
